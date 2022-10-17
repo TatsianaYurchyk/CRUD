@@ -1,2 +1,2 @@
 # CRUD
-CRUD-app variant 
+CRUD: reactjs+php+mysql
